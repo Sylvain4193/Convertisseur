@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Convert</string>
+
+    <string name="format">%.2f</string>
+    <string name="invalid_input">Invalid Input</string>
+
+    <string name="button_temperature">Temperature</string>
+    <string name="button_length">Length</string>
+    <string name="button_weight">Weight</string>
+
+    //--------------Temp-------------------
+    <string name="temperature">Temperature</string>
+
+    <string name="button_temperature_convert">Convert</string>
+    <string name="input_temperature">Input</string>
+    <string name="output_temperature">Output</string>
+
+    <string-array name="spinner_temperature_1">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="spinner_temperature_2">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+
+
+    //--------------Weight-----------------
+    <string name="weight">Weight</string>
+
+    <string name="button_weight_convert">Convert</string>
+    <string name="input_weight">Input</string>
+    <string name="output_weight">Output</string>
+
+    <string-array name="spinner_weight_1">
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Gram</item>
+    </string-array>
+    <string-array name="spinner_weight_2">
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Gram</item>
+    </string-array>
+    //--------------Length-----------------
+    <string name="length">Length</string>
+
+    <string name="button_length_convert">Convert</string>
+    <string name="input_length">Input</string>
+    <string name="output_length">Output</string>
+
+    <string-array name="spinner_length_1">
+        <item>Miles</item>
+        <item>Kilometer</item>
+        <item>Nautical miles</item>
+    </string-array>
+    <string-array name="spinner_length_2">
+        <item>Miles</item>
+        <item>Kilometer</item>
+        <item>Nautical miles</item>
+    </string-array>
+
+</resources>

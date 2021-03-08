@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur</string>
+
+    <string name="format">%.2f</string>
+    <string name="invalid_input">Saisie invalide</string>
+
+     <string name="button_temperature">Temperature</string>
+    <string name="button_length">Distance</string>
+    <string name="button_weight">Masse</string>
+
+    //--------------Temp-------------------
+    <string name="temperature">Temperature</string>
+
+    <string name="button_temperature_convert">Convertir</string>
+    <string name="input_temperature">Saisie</string>
+    <string name="output_temperature">Résultat</string>
+
+    <string-array name="spinner_temperature_1">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="spinner_temperature_2">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+
+
+    //--------------Weight-----------------
+    <string name="weight">Masse</string>
+
+    <string name="button_weight_convert">Convertir</string>
+    <string name="input_weight">Saisie</string>
+    <string name="output_weight">Résultat</string>
+
+    <string-array name="spinner_weight_1">
+        <item>Kilogramme</item>
+        <item>Livre</item>
+        <item>Gramme</item>
+    </string-array>
+    <string-array name="spinner_weight_2">
+        <item>Kilogramme</item>
+        <item>Livre</item>
+        <item>Gramme</item>
+    </string-array>
+    //--------------Length-----------------
+    <string name="length">Distance</string>
+
+    <string name="button_length_convert">Convertir</string>
+    <string name="input_length">Saisie</string>
+    <string name="output_length">Résultat</string>
+
+    <string-array name="spinner_length_1">
+        <item>Miles</item>
+        <item>Kilomètre</item>
+        <item>Miles marin</item>
+    </string-array>
+    <string-array name="spinner_length_2">
+        <item>Miles</item>
+        <item>Kilomètre</item>
+        <item>Miles marin</item>
+    </string-array>
+
+
+</resources>
